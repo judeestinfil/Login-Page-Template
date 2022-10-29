@@ -1,0 +1,26 @@
+body{
+    background-image: url('/assets/5000.jpg');
+}
+.center-div{
+    padding-top: 10%;
+}
+
+.btn-btn-success{
+    padding: .4em 2em;
+}
+
+form{
+    padding:0 3em;
+
+}
+
+.form-text{
+    float: left;
+}
+
+#login.title{
+    font-size:.8em;
+}
+.form-group{
+    padding-bottom: .8em;
+}
